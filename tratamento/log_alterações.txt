@@ -1,0 +1,16 @@
+Valor antigo: {'id': 913, 'nome': 'Free Access: sistema colaborativo para mapeamento de locais com acessibilidade para pessoas com mobilidade reduzida', 'categoria_premiacao': 'Prêmio Marília Chaves Peixoto', 'cidade': 'Natal', 'escola': 'campo não encontrado', 'estado': 'campo não encontrado', 'ano': '2018'} 
+Atualizado : {'id': 913, 'nome': 'Free Access: sistema colaborativo para mapeamento de locais com acessibilidade para pessoas com mobilidade reduzida', 'categoria_premiacao': 'Prêmio Marília Chaves Peixoto', 'cidade': 'Natal', 'escola': 'Instituto Federal de Educação', 'estado': 'Tocantins (TO)', 'ano': '2018'} 
+18-06-2024 11:31:42 
+
+Valor antigo: {'id': 962, 'nome': 'Free Access: sistema colaborativo para mapeamento de locais com acessibilidade para pessoas com mobilidade reduzida', 'categoria_premiacao': '4o. Lugar em Ciências Exatas e da Terra', 'cidade': 'Natal', 'escola': 'campo não encontrado', 'estado': 'campo não encontrado', 'ano': '2018'} 
+Atualizado : {'id': 962, 'nome': 'Free Access: sistema colaborativo para mapeamento de locais com acessibilidade para pessoas com mobilidade reduzida', 'categoria_premiacao': '4o. Lugar em Ciências Exatas e da Terra', 'cidade': 'Natal', 'escola': 'Instituto Federal de Educação', 'estado': 'Tocantins (TO)', 'ano': '2018'} 
+18-06-2024 11:31:46 
+
+Valor antigo: {'id': 913, 'nome': 'Free Access: sistema colaborativo para mapeamento de locais com acessibilidade para pessoas com mobilidade reduzida', 'categoria_premiacao': 'Prêmio Marília Chaves Peixoto', 'cidade': 'Natal', 'escola': 'Instituto Federal de Educação', 'estado': 'Tocantins (TO)', 'ano': '2018'} 
+Atualizado : {'id': 913, 'nome': 'Free Access: sistema colaborativo para mapeamento de locais com acessibilidade para pessoas com mobilidade reduzida', 'categoria_premiacao': 'Prêmio Marília Chaves Peixoto', 'cidade': 'Natal', 'escola': 'campo não encontrado', 'estado': 'campo não encontrado', 'ano': '2018'} 
+18-06-2024 11:33:54 
+
+Valor antigo: {'id': 962, 'nome': 'Free Access: sistema colaborativo para mapeamento de locais com acessibilidade para pessoas com mobilidade reduzida', 'categoria_premiacao': '4o. Lugar em Ciências Exatas e da Terra', 'cidade': 'Natal', 'escola': 'Instituto Federal de Educação', 'estado': 'Tocantins (TO)', 'ano': '2018'} 
+Atualizado : {'id': 962, 'nome': 'Free Access: sistema colaborativo para mapeamento de locais com acessibilidade para pessoas com mobilidade reduzida', 'categoria_premiacao': '4o. Lugar em Ciências Exatas e da Terra', 'cidade': 'Natal', 'escola': 'campo não encontrado', 'estado': 'campo não encontrado', 'ano': '2018'} 
+18-06-2024 11:33:59 
+
