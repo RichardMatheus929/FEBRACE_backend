@@ -14,15 +14,20 @@ Including another URLconf
     2. Add a URL to urlpatterns:  path('blog/', include('blog.urls'))
 """
 from django.contrib import admin
+
 from django.urls import path
 from django.urls import include
+
 from rest_framework import routers
 from projetos.api.ViewSet import ProjetoViewSet
 
 router = routers.DefaultRouter()
 router.register(r'projetos',ProjetoViewSet)
 
+from projetos.views import InfoProject
+
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('',include(router.urls))
+    path('',include(router.urls)),
+    path('projetos/<int:id_project>/info',InfoProject.as_view(),name='info_project')
 ]
